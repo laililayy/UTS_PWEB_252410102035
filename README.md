@@ -4,8 +4,11 @@ Taskly adalah website pengelolaan tugas mahasiswa berbasis Laravel yang membantu
 # Identitas
 
 Nama: Laili Rizqi Aulia
+
 NIM: 252410102035
+
 Mata Kuliah: Pemrograman Web
+
 Kelas: PWEB C
 ## Screenshot
 
